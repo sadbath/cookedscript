@@ -17,7 +17,7 @@ This script automatically:
    - [Violentmonkey (Firefox, Chrome)](https://violentmonkey.github.io/)
    - [Greasemonkey (Firefox)](https://addons.mozilla.org/firefox/addon/greasemonkey/)
 
-2. [Click here to install the script](https://github.com/sadbath/cookedscript/blob/main/cooked.user.js) 
+2. [Click here to install the script](https://github.com/sadbath/cookedscript/raw/refs/heads/main/cooked.user.js) 
 
 3. Visit Reddit — the script will run automatically on any page that includes posts from `r/OntarioGrade12s`.
 
